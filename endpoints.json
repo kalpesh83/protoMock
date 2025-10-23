@@ -1,0 +1,11 @@
+{
+  "endpoints": [
+    {
+      "path": "/trending-feed",
+      "json_file": "trending.json",
+      "proto_file": "/Users/kalpeshchandora/Desktop/sharechat-central-protos/proto/external/sc/feed_service/api/feed_fetch_response.proto",
+      "message_type": "FeedFetchResponse",
+      "proto_root": "/Users/kalpeshchandora/Desktop/sharechat-central-protos"
+    }
+  ]
+}
